@@ -1,14 +1,14 @@
 <updates>
 <update>
-<name>whatsappags</name>
-<description>plugin whatsappags</description>
-<element>whatsappags</element>
+<name>whatsappbuttonags</name>
+<description>whatsappbuttonags</description>
+<element>whatsappbuttonags</element>
 <type>plugin</type>
 <version>1.0.0</version>
 <client>site</client>
-<infourl title="whatsappags">https://github.com/alvinalvin/whatsappags</infourl>
+<infourl title="whatsappags">https://github.com/alvinalvin/whatsappbuttonags</infourl>
 <downloads>
-<downloadurl type="full" format="zip">https://github.com/alvinalvin/whatsappags/archive/refs/heads/main.zip</downloadurl>
+<downloadurl type="full" format="zip">https://github.com/alvinalvin/whatsappbuttonags/archive/refs/heads/main.zip</downloadurl>
 </downloads>
 <tags>
 <tag>stable</tag>
