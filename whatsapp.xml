@@ -1,0 +1,20 @@
+<updates>
+<update>
+<name>whatsappags</name>
+<description>plugin whatsappags</description>
+<element>whatsappags</element>
+<type>plugin</type>
+<version>1.0.0</version>
+<client>site</client>
+<infourl title="whatsappags">https://github.com/alvinalvin/whatsappags</infourl>
+<downloads>
+<downloadurl type="full" format="zip">https://github.com/alvinalvin/whatsappags/archive/refs/heads/main.zip</downloadurl>
+</downloads>
+<tags>
+<tag>stable</tag>
+</tags>
+<maintainer>Alvin Gil Saldaña</maintainer>
+<maintainerurl>https://github.com/alvinalvin</maintainerurl>
+<targetplatform name="joomla" version="(4|3\.([23456789]|10))\b"/>
+</update>
+</updates>
